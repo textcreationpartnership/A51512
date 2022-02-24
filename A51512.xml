@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full account from Ireland, of the maid at Dublin miraculously struck by the hand of heaven, and burning by a supernatural fire; in which deplorable condition she still continues: with her penitent behaviour and discourses since the recovery of her speech. And other remarkable passages relating to this stupendous judgement. As communicated in a letter received by the last post, Jan. 14. from Mr. Mount her master, living in Christ-Church-Yard in Dublin. As also several historical instances in the like kind; published for a warning for all to avoid such prophane execrations. With allowance.</title>
+            <author>Mount, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51512</idno>
+            <idno type="STC">Wing M2968B</idno>
+            <idno type="STC">ESTC R217881</idno>
+            <idno type="EEBO-CITATION">99829524</idno>
+            <idno type="PROQUEST">99829524</idno>
+            <idno type="VID">33964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33964)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full account from Ireland, of the maid at Dublin miraculously struck by the hand of heaven, and burning by a supernatural fire; in which deplorable condition she still continues: with her penitent behaviour and discourses since the recovery of her speech. And other remarkable passages relating to this stupendous judgement. As communicated in a letter received by the last post, Jan. 14. from Mr. Mount her master, living in Christ-Church-Yard in Dublin. As also several historical instances in the like kind; published for a warning for all to avoid such prophane execrations. With allowance.</title>
+                  <author>Mount, Mr.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, and sold by R. Kell, at the Blew-Anchor, in Pye-corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgement of God --  Early works to 1800.</term>
+               <term>Swearing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33964:1"/>
+            <pb facs="tcp:33964:1" rendition="simple:additions"/>
+            <p>A full Account from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RELAND, OF THE Maid at <hi>Dublin;</hi> Miraculouſly ſtruck by the Hand of Hea<g ref="char:EOLhyphen"/>ven, and Burning by a Supernatural Fire; In which deplorable condition ſhe ſtill conti<g ref="char:EOLhyphen"/>nues: With her penitent behaviour and diſcourſes ſince the recovery of her Speech.</p>
+            <p>And other Remarkable Paſſages relating to this Stupendious Judgement.</p>
+            <p>As Communicated in a Letter received by the laſt Poſt, <hi>Jan. 14.</hi> from Mr. <hi>Mount</hi> her Maſter, living in Chriſt-Church-Yard in <hi>Dublin.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s alſo ſeveral Hiſtorical Inſtances in the like kind; Publiſhed for a Warning for all to a<g ref="char:EOLhyphen"/>void ſuch Prophane Exec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ations.</p>
+            <q>When Gods Iudgments are upon the earth, let the Inhabitants learn Righteouſneſs.</q>
+            <p>With Allowance.</p>
+            <p>Printed for <hi>P. Brooksby,</hi> and ſold by <hi>R. Kell,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Blew-Anchor, in Pye-corner.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33964:2"/>
+            <pb n="1" facs="tcp:33964:2"/>
+            <head>A Full Account from <hi>IRELAND.</hi> Of the <hi>Maid at Dublin.</hi>
+            </head>
+            <p>COnverſation, if corrupt, will ſoon in<g ref="char:EOLhyphen"/>fect the Iudgment, Vicious lives, and unſound opinions being for the moſt part like Ice and Water, which mutually produce each other: When People by horrid Impieties have ſo far forfeited all hopes
+<pb n="2" facs="tcp:33964:3"/>
+of happineſs, as it is become their intereſt, there were neither God nor Devil, no future reward nor puniſhment: it is no wonder if they firſt wiſh, and at laſt come to believe that there may be none: from this accurſed fountain pro<g ref="char:EOLhyphen"/>ceeds that inundation of Atheiſm, which too far has overwhelmed our ungodly Age, and to that bitter root muſt we refer thoſe ſpreading branches of Infidelity, which vainly endeavour to clould all inſtances of Divine Iudgments upon notorious ſinners, with a ſhadow of Ficti<g ref="char:EOLhyphen"/>on or improbability.</p>
+            <p>The deplorable condition of the unhappy Maid at <hi>Dublin,</hi> who lies ſeverely languiſh<g ref="char:EOLhyphen"/>ing under the ſevere rod of incenſed Heaven, is ſufficiently notorious in it ſelf to challenge be<g ref="char:EOLhyphen"/>lief from any perſon not obſtinately incredu<g ref="char:EOLhyphen"/>lous, and at once affect our Hearts with trem<g ref="char:EOLhyphen"/>bling and our eyes with tears, at the relation of ſo eminent and dreadful a puniſhment: It is not a thing that hapned many Ages ſince, in ſome ſtrange remote Regions, or done in a cor<g ref="char:EOLhyphen"/>ner, but in this very Month of <hi>January,</hi> a<g ref="char:EOLhyphen"/>mongſt our own people, in our Siſter Nation, and chief City of that Kingdom, confirmed and atteſted (without injuring truth, I may af<g ref="char:EOLhyphen"/>firm it) by ſome hundreds of Letters, to perſons of repute in this City of <hi>London,</hi> from their Friends and Correſpondencies.</p>
+            <p>
+               <pb n="3" facs="tcp:33964:3"/>Some brief account of it has already been made publick, what further tydings we have received by Letters of a freſher date, we ſhall here acquaint you: but firſt be pleaſed to take the matter of fact fully and truly as it hapned, which is thus.</p>
+            <p>This party, or wretched ſubject, whoſe Name we have no Commiſſion to diſcover, and for ſeveral reaſons think fit to conceal,) was Servant-Maid to one Mr. <hi>Mount,</hi> living in <hi>Chriſt-Church Yard</hi> in <hi>Dublin,</hi> a perſon of good account and worth, and indeed ſhe ſeemed to be a better Servant than a Chriſtian, for though ſhe would very orderly diſpatch her houſhold-work, yet ſhe had got a moſt wicked habit or cuſtom, when ſhe was asked any queſt<g ref="char:EOLhyphen"/>ion, to anſwer with an Imprecation or Confir<g ref="char:EOLhyphen"/>mative Curſe on her ſelf, <hi>Let me be burned,</hi> or, <hi>The Devil burn me, if it be not ſo:</hi> particularly one day, on occaſion of ſomething being loſt, or miſlaid (what it was is variouſly reported, but moſt agree it was a Silver Tankard) ſhe was very ſeriouſly examined about it, and after ſeve<g ref="char:EOLhyphen"/>ral ſtout denials, ſeveral times repeated her wonted Curſe, ſaying often very ſolemnly: <hi>The Devil burn me alive if I know any thing of it, or what's become of it,</hi> or to that wicked effect: inſomuch that her Miſtriſs reproved her
+<pb n="4" facs="tcp:33964:4"/>
+for it, and adviſed her to forbear ſuch extrava<g ref="char:EOLhyphen"/>gant and prophain expreſſions, though ſhe ſeem<g ref="char:EOLhyphen"/>ed not at all to regard her pious Admonitions: But that evening her Maſter and Miſtriſs be<g ref="char:EOLhyphen"/>ing gone to bed, and ſhe left up alone, about her uſual occaſions, her Maſter was on a ſudden, towards midnight, ſurpriſed with the noiſe of a ſtrange and unuſual Groaning, which after ſome time oblieged him to get up to ſatisfie his curioſity, what might be the cauſe of ſuch heart-piercing moans, which ſeemed as the laſt Accents of ſome miſerable departing ſoul: no ſooner came he downſtairs into the Kitchen, but he finds his Maid lying in a moſt miſera<g ref="char:EOLhyphen"/>ble condition, for though ſhe were alive, ſhe was ſenceleſs, and all her fingers, hands, arms, and face wonderfully burnt, and yet neither fire nor candle near her, and (as it appeared af<g ref="char:EOLhyphen"/>terwards) ſhe burnt in the ſame manner in o<g ref="char:EOLhyphen"/>ther parts of the body, and yet her Cloaths not prejudiced in the leaſt, when they went to touch her, her Fleſh felt hot, as not to be endured, and it appeared to be a kind of burning far dif<g ref="char:EOLhyphen"/>ferent from our common f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e it was only in the skin and ſuperfines of the fleſh and that it does ſomewhat waſte, but not violently conſume, nor ſink far deep to deſtroy the vital parts, ſo that ſhe appears a perfect emblem of infernal
+<pb n="5" facs="tcp:33964:4"/>
+miſery, ſtill burning without conſuming, and dying without being able to dye.</p>
+            <p>Several Phyſitians were ſent for, but in vain, this was no <hi>Eriſephelas</hi> or S. <hi>Anthonies fire,</hi> nor lies it in the verge of Art. but only in the merciful power of the Omnipotent Phyſi<g ref="char:EOLhyphen"/>tian, to reſtore them whom he has viſited to make them Monuments of his Iuſtice. She was removed into <hi>Exchequer-Lane,</hi> where ſhe was viſited by the greateſt part of the City with admiration, remaining for <hi>2</hi> whole days, with<g ref="char:EOLhyphen"/>out being able to ſpeak; or appearing to have the uſe of any of her ſences: but on the third day, it pleaſed the Lord to reſtore her under<g ref="char:EOLhyphen"/>ſtanding and ſpeech, which ſhe no ſooner receiv<g ref="char:EOLhyphen"/>ed, but being askt how ſhe came into that deplo<g ref="char:EOLhyphen"/>rable condition, ſhe with many ſighs anſwered, That ſhe was taken on a ſudden as if ſhe had been flung into a mighty fierce fire, and that the torment thereof was ſtill beyond expreſ<g ref="char:EOLhyphen"/>ſion, but ſhe acknowledged it to be a Viſitation from heaven and a juſt Iudgment of God up<g ref="char:EOLhyphen"/>on her, for her wicked Curſing, and Prophain wiſhes: being futher diſcourſed with, ſhe ſeem<g ref="char:EOLhyphen"/>ed too inclinable to diſpair, alledging that ſhe had been ſo notorious a ſinner, that God-would never pardon her, but had cut her off for ever, and viſibly damned her to eternity, whereupon
+<pb n="6" facs="tcp:33964:5"/>
+ſeveral able Divines were ſent for, whom ſhe entertained very patiently: they applyed the Balm of <hi>Gilead</hi> to her wounded Spirit, and ſupported her Heart with thoſe Rich Cordials of promiſes of pardon and forgiveneſs, where<g ref="char:EOLhyphen"/>with the Book of God is plentifully ſtored: Theſe they ſo excellently opened, and ſo cloſely brought them home to her condition, that ſhe ſeemed to receive ſome ſatisfaction from their diſcourſed and at laſt burſt out into this pa<g ref="char:EOLhyphen"/>thetical Ejaculation. <hi>And is there ſtill mercy and pardon for ſo vile a wretch as I! Oh my God, though my preſent pain be very grie<g ref="char:EOLhyphen"/>vous, yet let me ſuffer it for many years, ſo I may but enjoy thee at laſt.</hi>
+            </p>
+            <p>They concluded that day with prayer, where<g ref="char:EOLhyphen"/>in ſhe ſeemed very devout and much affected: Every day ſince ſhe has been viſited by able Men, and gives very ſatisfactory anſwers, ac<g ref="char:EOLhyphen"/>knowledging her Sins and Gods Iuſtice, in laying this affliction upon her, ſo that 'tis ge<g ref="char:EOLhyphen"/>nerally hoped that this temporal Iudgment is inflicted on her, that ſhe may eſcape Death E<g ref="char:EOLhyphen"/>ternal.</p>
+            <p>Se continues ſtill in the ſame condition, and can receive food, but takes ſo very little of it at a time, that it is believed that unleſs God re<g ref="char:EOLhyphen"/>ſtore her, ſhe will in ſhort time waſte away.</p>
+            <p>
+               <pb n="7" facs="tcp:33964:5"/>Our laſt Letters that gave any account of her, were dated the Fourteenth of this inſtant Ianuary; and we can ſay no more of her, but leave her to the infinite mercies of her Almighty Creator, hopeing (which ſhe alſo often expreſſes to be the great deſire of her heart) that her example may Warn and deter all others that ſee her, or ſhall hear this faithful Relation of her condition, to avoid and abandon all ſuch horrid Execra<g ref="char:EOLhyphen"/>tions, Curſings, wicked wiſhes, and pro<g ref="char:EOLhyphen"/>phane expresſions, leſt a worſe thing come upon them.</p>
+            <q>Tunc tua Res agiter paries cum proxi<g ref="char:EOLhyphen"/>mus ardet.</q>
+            <p>Shall the Lyon Roar, and we not trem<g ref="char:EOLhyphen"/>ble, or the tempeſt of Gods wrath be ſo ef<g ref="char:EOLhyphen"/>fectually and miraculouſly powered down, and we preſume to practice the very ſame ſins for which this poor Creature is made a Monument of Divine juſtice and dread<g ref="char:EOLhyphen"/>ful ſpectacle of miſery; as the holy Scrip<g ref="char:EOLhyphen"/>tures (wherin ſuch judgments come to paſs) for our inſtruction, and no doubt every one ought to reap profit to himſelf by ſuch Ex<g ref="char:EOLhyphen"/>amples, as well thoſe which are preſented dayly to them by experience, as thoſe that
+<pb n="8" facs="tcp:33964:6"/>
+have been done in Ages paſt, and are by the be<g ref="char:EOLhyphen"/>nifit of Hiſtory preſerved from oblivion: of which latter kind give us leave to add one or two from Authentick Authors, ſomewhat Re<g ref="char:EOLhyphen"/>ſembling this modern one we have here Rela<g ref="char:EOLhyphen"/>ted.</p>
+            <p>An eminent Author in his Comment upon the <hi>15</hi> Chap. of the firſt Epiſtle to the <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> tells us of a Rude Debauch in <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> who amongſt other Extravagancies, had got a habit that the Devil muſt come in almoſt every ſentence that paſt his Lips, if walking he treads awry, if any thing hurt or anger him; or the like, ſtraight the Devil muſt be in his Mouth; for which, though he were often Re<g ref="char:EOLhyphen"/>proved by ſome godly Neighbors, yet it was in vain, he continued his deteſtable Phraſe, till one time paſſing over a Bridge, he fell down, or ſtumbled, and in his fall (inſtead of calling upon God) uttered theſe words, <hi>Hoiſt up with a hundred Devils:</hi> which he had no ſooner ſpo<g ref="char:EOLhyphen"/>ken, but the Devil whom he had ſo often invo<g ref="char:EOLhyphen"/>ked, did appear and ſtrangled him, and carried away his Carcaſs.</p>
+            <p>A Carter in <hi>Stafford-ſhire</hi> Riding be<g ref="char:EOLhyphen"/>fore on the Shafts as he drove his Teem, fell into a horrid fit of Swearing and curſing the poor Cattle, wiſhing a plague of God for 'um,
+<pb n="9" facs="tcp:33964:6"/>
+               <hi>&amp;c.</hi> but going in his fury to leap down to beat them, he accidentally fell down, and the Wag<g ref="char:EOLhyphen"/>gon being heavy loaded, the Wheels run over his head and neck, and miſerably bruiſed him to pieces.</p>
+            <p>A Shooe-maker living ſome years ſince in <hi>London,</hi> had a wicked cuſtome of ſwearing that horrid Oath, <hi>By Gods Blood;</hi> one Evening as he was often repeating it, being in a great Rage with a Prentice, his Noſe immediately fell a bleeding, which by no means could be ſtanched, ſo that he bled to Death in that ſad manner.</p>
+            <p>At St. <hi>Gallus,</hi> a Town in <hi>Helvetia,</hi> a poor Man that got his living by whit'ning Linnen, having brutified himſelf with drink, vomited out many tirrible Curſes, as well againſt him<g ref="char:EOLhyphen"/>ſelf, as others; amongſt the reſt, he wiſht if ever he went into the Fields to his old trade, that the Devil might come and break his neck: but when ſleep had allay'd the fumes of his Liquor, and ſobriety reſtored his ſences, he went again to his old Trade, remembring indeed his late words, but not regarding them; however, the Devil to ſhew his diligence, attended him at the place and asked him if he remembred his offer and engagement, and whether he might not juſtly break his neck, and withal ſtruck the
+<pb n="10" facs="tcp:33964:7"/>
+poor man, trembling with fear, over the ſhoul<g ref="char:EOLhyphen"/>ders, that his feet and hands preſently dryed up, ſo that he was not able to ſtir, till by the help of men he was carried home, the Lord not giv<g ref="char:EOLhyphen"/>ing Satan ſo much power as he wiſht himſelf, yet permitting him ſo far to plague him, for his amendment, and our example.</p>
+            <p>The <hi>Saxon</hi> Chronicles relate of <hi>Henry</hi> Earl of <hi>Schwartburg,</hi> who uſed commonly to wiſh he might be drowned or ſtifled in a Houſe of Office, if he did not ſo, or ſo, and as he wiſht, he was ſerved, being Murthered in the Privy be<g ref="char:EOLhyphen"/>longing to St. <hi>Peters</hi> Monaſtry in <hi>Erford.</hi>
+            </p>
+            <p>In the year of our Lord <hi>.1649.</hi> a certain rump-Souldier quartering at <hi>Ware,</hi> went down with ſome perſons of the Town into the Meadows, where he would needs go into the River to waſh himſelf, but ſeeing the water very ſhallow, he askt whether the River were no where deeper that he might ſwim? whereupon they ſhewed him another place, but withal told him, it was not only exceeding deep but dangerous, becauſe there was there a kind of Whirlpool: To whom he deſperately replyed, <hi>I care not, let it be as deep as Hell I'le in, let it whirle me to the Divel:</hi> And immediately ſaying this, he jumpt into the River, but ſunk to rights, and was never ſeen more.</p>
+            <p>
+               <pb n="11" facs="tcp:33964:7"/>
+               <hi>Conradus</hi> in his <hi>Theatrum Memorabilium,</hi> tells upon his own knowledge of a Lady in <hi>Bavaria,</hi> that being ſuſpected by her Husband of too much familiarity with a young Baron dwelling near, and once in particular upon ſome very violent ſuſpitions taxed for keeping him company, denyed all Correſpondence with him, with a thouſand proteſtations; and being then great with-child, ſolemnly wiſht that ſhe might never be delivered of that Child ſhe then went withal, or that it might prove a Monſter, if ſhe were ever guilty of any undecent or unchaſte Converſation with that Gentleman; With which Aſſeverations, her Husband being ſatis<g ref="char:EOLhyphen"/>fied, quitted his jealouſies, and received her into favor as much as ever. But about two months after when her time was out, ſhe fell into La<g ref="char:EOLhyphen"/>bor, and continued ſo in extremity of pangs for five whole days, and could by no help nor Art be delivered, ſo that at laſt being juſt ready to give up the Ghoſt, ſhe openly acknowledged it to be a Righteous Iudgement both for ſuch her curſed wiſh and filthy Adultery. For this the Birth ſhe was then in Travel with, was not of her Husbands begetting, but the before-mentioned Barons, ſaying which, ſhe miſerably dyed, and being afterwards open'd, behold a Monſter indeed in her Womb, for it had the
+<pb n="12" facs="tcp:33964:8"/>
+perfect body of a Male-child, but the head craft<g ref="char:EOLhyphen"/>ly like an Owls, and the feet with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laven <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like thoſe of an Ox: A dreadful Examples of Divine vengeance. <hi>1.</hi> Againſt Adultery, and <hi>2ly.</hi> Againſt all ſuch prophane I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions; and which may warn all, eſpecially Women, in ſuch a condition, to ſet a Watch before their Lips, leaſt God ſhould viſit for ſuch R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh and wicked ſpeeches, in that terrible hour of pangs and tortures, which <hi>Eves</hi> Tranſgreſſion has entailed on that Sex in Child-bearing.</p>
+            <p>A Fiſher-man belonging to bright <hi>Hempſton</hi> in <hi>Suſſex,</hi> coming home with his Boat loaden with Mackarells, and they being the firſt that had been taken that year, abundant of People flockt about him to buy them, and ſome of them would needs go into his Boat; whereat he be<g ref="char:EOLhyphen"/>ing mightily enraged, cryed out, <hi>God confound me if I do not break your necks,</hi> and catching up a pole, went furiouſly to ſtrike at them; but fell backward and broke his own Neck, ſo that he never ſpake a word after words.</p>
+            <p>A Perſon in the <hi>Lower Helvetia,</hi> in the year <hi>1652.</hi> having privately borrowed a ſum of money of a friend without any witneſs, or any thing to ſhow for it, after he had made uſe of it a long time, and the Perſon that furniſht him had occaſion for it again, grew ſo ungratefully
+<pb n="13" facs="tcp:33964:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deny the Receipt of it, or that he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him any thing, facing down the good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man impudently with Oaths and pro<g ref="char:EOLhyphen"/>teſtations, who ſeeing no Remedy, left him, de<g ref="char:EOLhyphen"/>ſiring him to lay the thing to his Conſcience, &amp;c. After he was gone, this Villain being at dinner with his Wife, began to glory of his ex<g ref="char:EOLhyphen"/>ploit, in cheating the man of his money. To whom the Woman, being of better Principles, anſwered, <hi>I wonder Husband how you dare do theſe things!</hi> Piſh, ſays he, in ſcorn, <hi>you are a fool, who dares not forſwear himſelf for ſuch a ſum, deſerves to dye a Beggar? I'le warrant thee Wench, a Lye never choaks me.</hi> But behold the juſt hand of God in this preſumptuous wretch, for immediately as he ſpake theſe Words, a piece of Rind of Bacon, which he was eating, ſtuck in his Throat, and ſo continued <hi>24</hi> hours, not to be moved by any Art, till he dyed, being choaked, notwithſtand<g ref="char:EOLhyphen"/>ing his impudent bragging with that Lye in his mouth, thoſe being the laſt Words he was ever able audibly to utter.</p>
+            <p>But moſt oppoſite is that of a young Courti<g ref="char:EOLhyphen"/>er of <hi>Mansfield,</hi> mentioned by <hi>Cyracus</hi> in his Treatiſe, <hi>De Elegantijs veteris Adami.</hi> This Gallant had a wicked cuſtome in any earneſt Aſſeveration, to ſay, <hi>The Devil take me if
+<pb n="14" facs="tcp:33964:9"/>
+it be not ſo:</hi> The Devil to gratifie <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> took him one day while he ſlept, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out of a high window: where, though by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> providence he received no great harm<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> learne thence to bridle his tongue from all ſuch curſed Speeches for the future.</p>
+            <p>
+               <hi>Which uſe I hope all conſiderate perſons will think of our well-intending pains in publiſhing the preſent Relation.</hi>
+            </p>
+            <epigraph>
+               <q>—Felix quem faciunt.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33964:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
